@@ -2,7 +2,7 @@ package demo;
 
 import org.testng.annotations.Test;
 
-public class CreateContacts {
+public class CreateContactsTest {
 	@Test
 	public void createNewContacts() {
 		System.out.println("Contacts created");
